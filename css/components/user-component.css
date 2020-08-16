@@ -53,3 +53,17 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__exclamation-mark {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  width: 16px;
+  height: 16px;
+  border-color: black;
+  text-align: center;
+  border-radius: 50%;
+  border: 1.5px solid #f43;
+  color: #f43;
+  font-weight: 600;
+}

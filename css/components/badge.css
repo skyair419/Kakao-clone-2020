@@ -9,3 +9,18 @@
   color: #f9f9fa;
   font-weight: 600;
 }
+
+.badge__settings {
+  background-color: tomato;
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  color: #f9f9fa;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  margin-left: 9px;
+}

@@ -8,6 +8,7 @@
 
 .alt-header__column {
   width: 33%;
+  margin-top: 20px;
 }
 
 .alt-header__title {
@@ -29,6 +30,6 @@
   justify-content: flex-end;
 }
 
-.alt-header__column i:last-child {
+.alt-header__column:last-child i {
   margin-left: 20px;
 }
